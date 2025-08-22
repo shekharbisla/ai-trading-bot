@@ -3,3 +3,6 @@ numpy
 matplotlib
 scikit-learn
 requests
+fastapi
+uvicorn
+pytest

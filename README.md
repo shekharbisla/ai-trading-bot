@@ -1,3 +1,4 @@
+[![CI](https://github.com/shekharbisla/ai-trading-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/shekharbisla/ai-trading-bot/actions/workflows/ci.yml)
 # AI Trading Bot 🤖📈
 
 An **international-level open-source project** to showcase Python, AI, and Finance skills.  
